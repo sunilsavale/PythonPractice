@@ -14,3 +14,6 @@ num = int(input("Enter a number of row:-"))
 
 for i in range(num):
      print("* "*n)
+
+
+print("This are the star programms")
