@@ -29,3 +29,7 @@ def reversed(string):
 string = input("Enter a string:-")
 print("Entered string is :", string)
 reversed(string)
+
+
+print("Reverse strings")
+print("git practice")
